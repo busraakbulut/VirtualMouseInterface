@@ -28,7 +28,7 @@ Install the required dependencies:
    ```bash
    pip install opencv-python  mediapipe  numpy pyautogui cvzone
    ```
-##Usage
+## Usage
 Run the main script:
 
  ```bash
@@ -47,12 +47,12 @@ Run the main script:
    ##License
    This project is licensed under the MIT License.
    
-   ##Acknowledgements
+   ## Acknowledgements
    The Mediapipe library for facial landmark detection.
    The OpenCV library for computer vision and image processing.
    The Numpy library for numerical computations.
    The PyAutoGUI library for simulating mouse movements and clicks.
    The CVZone library for additional computer vision functionality.
    
-   ##Contributing
+   ## Contributing
    Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
