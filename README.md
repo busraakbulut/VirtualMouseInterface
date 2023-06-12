@@ -16,18 +16,17 @@
 ```bash
 git clone https://github.com/busraakbulut/VirtualMouseInterface.git
 ```
-Navigate to the project directory:
-
+2. Navigate to the project directory:
 
    ```bash
    cd VirtualMouseInterface
    ```
-Install the required dependencies:
-
+3. Install the required dependencies:
 
    ```bash
    pip install opencv-python  mediapipe  numpy pyautogui cvzone
    ```
+   
 ## Usage
 Run the main script:
 
