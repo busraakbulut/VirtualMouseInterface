@@ -48,10 +48,15 @@ Run the main script:
    
    ## Acknowledgements
    The Mediapipe library for facial landmark detection.
+   
    The OpenCV library for computer vision and image processing.
+   
    The Numpy library for numerical computations.
+   
    The PyAutoGUI library for simulating mouse movements and clicks.
+   
    The CVZone library for additional computer vision functionality.
+   
    
    ## Contributing
    Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
