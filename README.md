@@ -1,4 +1,5 @@
 "# VirtualMouseInterface" 
+
 ## Requirements
 
 - Python 3.x
@@ -16,20 +17,19 @@
    git clone https://github.com/your-username/eye-mouse-control.git
 Navigate to the project directory:
 
-bash
-Copy code
-cd eye-mouse-control
+
+ ```bash
+   cd eye-mouse-control
 Install the required dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
+
+```bash
+    pip install opencv,mediapipe,numpy,pyautogui,cvzone
 Usage
 Run the main script:
 
-bash
-Copy code
-python main.py
+ ```bash
+   python main.py
 Adjust the sensitivity level when prompted (choose a number between 1 and 3) to control the mouse movement speed.
 
 Once the application is running, it will use your device's webcam to track your facial landmarks. Keep your face visible to the camera for accurate tracking.
@@ -40,15 +40,15 @@ Blinking your eyes can simulate mouse clicks. A quick blink will simulate a left
 
 Press 'q' to exit the application.
 
-License
+##License
 This project is licensed under the MIT License.
 
-Acknowledgements
+##Acknowledgements
 The Mediapipe library for facial landmark detection.
 The OpenCV library for computer vision and image processing.
 The Numpy library for numerical computations.
 The PyAutoGUI library for simulating mouse movements and clicks.
 The CVZone library for additional computer vision functionality.
 
-Contributing
+##Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
