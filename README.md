@@ -1,4 +1,4 @@
-"# VirtualMouseInterface" 
+"#VirtualMouseInterface" 
 
 ## Requirements
 
@@ -14,21 +14,21 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/eye-mouse-control.git
+git clone https://github.com/your-username/VirtualMouseInterface.git
 ```
 Navigate to the project directory:
 
 
    ```bash
-   cd eye-mouse-control
+   cd VirtualMouseInterface
    ```
 Install the required dependencies:
 
 
    ```bash
-   pip install opencv,mediapipe,numpy,pyautogui,cvzone
+   pip install opencv-python  mediapipe  numpy pyautogui cvzone
    ```
-Usage
+##Usage
 Run the main script:
 
  ```bash
@@ -38,9 +38,9 @@ Run the main script:
    
    Once the application is running, it will use your device's webcam to track your facial landmarks. Keep your face visible to the camera for accurate tracking.
    
-   Look in different directions to control the mouse cursor. The application will move the cursor based on your eye movements.
+   Look in different directions to control the mouse cursor. The application will move the cursor based on your head movements.
    
-   Blinking your eyes can simulate mouse clicks. A quick blink will simulate a left-click, while a longer blink will simulate a right-click.
+   Blinking your eyes simulates mouse clicks. A quick blink will simulate a left-click, while a longer blink will simulate a right-click.
    
    Press 'q' to exit the application.
    
