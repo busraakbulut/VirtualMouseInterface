@@ -18,13 +18,13 @@
 Navigate to the project directory:
 
 
-    ```bash
+   ```bash
    cd eye-mouse-control
 Install the required dependencies:
 
 
    ```bash
-    pip install opencv,mediapipe,numpy,pyautogui,cvzone
+   pip install opencv,mediapipe,numpy,pyautogui,cvzone
 Usage
 Run the main script:
 
