@@ -1,4 +1,4 @@
-"#VirtualMouseInterface" 
+#VirtualMouseInterface
 
 ## Requirements
 
