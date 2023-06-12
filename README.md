@@ -14,7 +14,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/VirtualMouseInterface.git
+git clone https://github.com/busraakbulut/VirtualMouseInterface.git
 ```
 Navigate to the project directory:
 
