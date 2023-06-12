@@ -14,16 +14,16 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/eye-mouse-control.git```
+   git clone https://github.com/your-username/eye-mouse-control.git
 Navigate to the project directory:
 
 
- ```bash
-   cd eye-mouse-control```
+    ```bash
+   cd eye-mouse-control
 Install the required dependencies:
 
 
-```bash
+   ```bash
     pip install opencv,mediapipe,numpy,pyautogui,cvzone
 Usage
 Run the main script:
